@@ -1,4 +1,4 @@
-#### Firebase Authentication -
+# Firebase Authentication -
 This is a simple web application that implements basic authentication using Firebase Authentication. The application allows users to register, log in, and view their profile information.
 
 #### Getting Started -
